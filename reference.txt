@@ -1,0 +1,10 @@
+
+1-https://www.tensorflow.org/tutorials/keras/classification
+
+2-https://docs.pytorch.org/vision/stable/index.html
+
+3-https://jupyter.org/try-jupyter/lab/index.html
+4-https://github.com/zalandoresearch/fashion-mnist/tree/master/data/fashion
+5-https://jupyter.org/try-jupyter/notebooks/?path=Untitled.ipynb
+6-https://www.kaggle.com/code/mymemmories/spam-text-messages
+7-https://www.youtube.com/watch?v=VOdPQmm298o&list=PLTsu3dft3CWiow7L7WrCd27ohlra_5PGH
