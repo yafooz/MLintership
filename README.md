@@ -18,6 +18,11 @@ i added the csv file with the task
  i used the dataset images from fashin mnist  using 
  tensor flow dataloader and datset.
  the task   notebook has been developed in Google Collab with the free GPU resource. If you want to follow along and maybe even edit the code, I highly recommend developing on Google Collab since all of your packages and hardware are setup for you.
-Task #4 
+
+Task #4 collaborative recomendation systems for movies datasets in this task i devloped a notbook with colab google dashboard a recoendation system sugest you the movies with intercative widget and its you can find the users who like the movies and who share the same movies who make and actinos ...etc and thier scores .thirer is tow datasets one for movies the other for ratings i added them with the task .
+ the task   notebook has been developed in Google Collab with the free GPU resource. If you want to follow along and maybe even edit the code, I highly recommend developing on Google Collab since all of your packages and hardware are setup for you.
+photo for  the widget 
+
+
 
 
